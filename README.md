@@ -1,4 +1,6 @@
 # linux-network-labs
+> ⚠️ This section is under active development and continuously extended.
+
 Hands-on labs for Linux, networking, systems, and security fundamentals. 
 Structured learning roadmap with daily logs and practical engineering tasks.
 This repository is part of a 6-month intensive training plan aimed at
