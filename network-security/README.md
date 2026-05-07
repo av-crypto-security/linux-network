@@ -23,7 +23,7 @@
 
 ## Mini-Project
 
-Secure lab network
+Secure network
 
 Description:
 Harden a multi-VM network using firewall rules and segmentation.
