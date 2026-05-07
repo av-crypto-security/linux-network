@@ -1,6 +1,6 @@
-# Linux & Network Security Labs
+# Linux & Network Security
 
-This repository contains structured hands-on labs for Linux, networking, and security engineering fundamentals.
+This repository contains structured hands-on projects for Linux, networking, and security engineering fundamentals.
 
 The focus is on:
 - system-level understanding (Linux, systemd, networking)
